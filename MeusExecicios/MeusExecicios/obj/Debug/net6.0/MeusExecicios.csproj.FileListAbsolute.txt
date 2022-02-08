@@ -1,0 +1,15 @@
+C:\MeusExecicios\MeusExecicios\MeusExecicios\bin\Debug\net6.0\MeusExecicios.exe
+C:\MeusExecicios\MeusExecicios\MeusExecicios\bin\Debug\net6.0\MeusExecicios.deps.json
+C:\MeusExecicios\MeusExecicios\MeusExecicios\bin\Debug\net6.0\MeusExecicios.runtimeconfig.json
+C:\MeusExecicios\MeusExecicios\MeusExecicios\bin\Debug\net6.0\MeusExecicios.dll
+C:\MeusExecicios\MeusExecicios\MeusExecicios\bin\Debug\net6.0\ref\MeusExecicios.dll
+C:\MeusExecicios\MeusExecicios\MeusExecicios\bin\Debug\net6.0\MeusExecicios.pdb
+C:\MeusExecicios\MeusExecicios\MeusExecicios\obj\Debug\net6.0\MeusExecicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusExecicios\MeusExecicios\MeusExecicios\obj\Debug\net6.0\MeusExecicios.AssemblyInfoInputs.cache
+C:\MeusExecicios\MeusExecicios\MeusExecicios\obj\Debug\net6.0\MeusExecicios.AssemblyInfo.cs
+C:\MeusExecicios\MeusExecicios\MeusExecicios\obj\Debug\net6.0\MeusExecicios.csproj.CoreCompileInputs.cache
+C:\MeusExecicios\MeusExecicios\MeusExecicios\obj\Debug\net6.0\MeusExecicios.dll
+C:\MeusExecicios\MeusExecicios\MeusExecicios\obj\Debug\net6.0\ref\MeusExecicios.dll
+C:\MeusExecicios\MeusExecicios\MeusExecicios\obj\Debug\net6.0\MeusExecicios.pdb
+C:\MeusExecicios\MeusExecicios\MeusExecicios\obj\Debug\net6.0\MeusExecicios.genruntimeconfig.cache
+C:\MeusExecicios\MeusExecicios\MeusExecicios\obj\Debug\net6.0\MeusExecicios.csproj.AssemblyReference.cache
